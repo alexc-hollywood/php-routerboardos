@@ -1,0 +1,20 @@
+{
+    "name": "azcoppen/routerboardos",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RouterboardOS\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AC",
+            "email": "azcoppen@protonmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ext-sockets": "*"
+    }
+}
